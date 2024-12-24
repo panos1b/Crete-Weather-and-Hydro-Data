@@ -30,7 +30,7 @@ The dataset has been modified to ensure greater consistency and accessibility. T
    - The names of the stations and files are now written in **Latin characters**, following the **ISO 843 (ΕΛΟΤ 743)** standard for Greek-to-Latin transcription. This is a change from the previous naming convention.
 
 3. **Data Combination**  
-   - Data from multiple stations has been **combined** to provide a more comprehensive dataset.
+   - Data from some stations has been **combined**.
 
 4. **Water Quality Data**  
    - Water quality data is provided **raw and unprocessed**, exactly as received from the original source.
