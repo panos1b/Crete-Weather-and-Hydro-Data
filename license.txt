@@ -1,3 +1,7 @@
+Creative Commons Attribution ShareAlike 4.0
+
+--
+
 Any adaptations I have made in this work are licensed under CC BY-NC-SA 4.0. The adaptations made are stated in the README at root and in a dedicated file in Greek. You can find this license here: https://creativecommons.org/licenses/by-nc-sa/4.0/
 Attributions should be made to Panagiotis Alexandros Daskalopoulos 
 
